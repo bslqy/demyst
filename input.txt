@@ -1,0 +1,2 @@
+00123John Smith   34CA12345 Maple St650018M  123-456-7890john.smith@email.com  Manager         HR Department  
+00456Jane Doe     28NY98765 Elm Ave 100022F  234-567-8901jane.doe@email.com    Engineer        R&D Team       
